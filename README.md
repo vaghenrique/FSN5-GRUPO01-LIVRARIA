@@ -55,13 +55,4 @@ O site apresenta uma lista com informações sobre cada livro, como:
 - **Imagem**: [imagem do livro]
 - **Link de compra**: "Amazon"
 
-Além disso, a seção "Livros Populares" exibe uma lista dos **30 livros mais comprados**, com destaque visual para esses livros.
-
-## Personalização
-
-- **Adicione Novos Livros**: Você pode adicionar novos livros editando o arquivo `script.js` e incluindo objetos no array de livros.
-- **Modifique o Estilo**: Personalize as cores e o layout editando o arquivo `styles.css`.
-
-## Exemplo de código em JavaScript
-
 
