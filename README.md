@@ -51,10 +51,9 @@ Este é um projeto simples de uma **livraria online** feito com **HTML**, **CSS*
 O site apresenta uma lista com informações sobre cada livro, como:
 
 - **Título**: "O Hobbit"
-- **Autor**: "J.R.R. Tolkien"
 - **Descrição**: "Lorem Ipusom"
 - **Imagem**: [imagem do livro]
-- **´Resenha descritiva do livri**: "Lorem Ipsom"
+- **Link de compra**: "Amazon"
 
 Além disso, a seção "Livros Populares" exibe uma lista dos **30 livros mais comprados**, com destaque visual para esses livros.
 
