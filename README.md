@@ -3,7 +3,7 @@ LOJA DE LIVROS
 
 # Livraria Online - Exibição de Livros
 
-Este é um projeto simples de uma **livraria online** feito com **HTML**, **CSS** e **JavaScript**. O objetivo é exibir uma lista de livros, com destaque para os **30 livros mais comprados**. O site é totalmente estático e foi desenvolvido apenas para fins de exibição e aprendizado.
+Este é um projeto simples de uma **livraria online** feito com **HTML**, **CSS** e **JavaScript**. O objetivo é exibir uma lista de livros, com destaque para os **20 livros indicados pela equipe de desenvolvimento**. O site é totalmente estático e foi desenvolvido apenas para fins de exibição e aprendizado.
 
 ## Funcionalidades
 
