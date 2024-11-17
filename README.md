@@ -8,7 +8,8 @@ Este é um projeto simples de uma **livraria online** feito com **HTML**, **CSS*
 ## Funcionalidades
 
 - **Exibição de Livros**: O site exibe uma lista de livros com título, autor, preço e imagem da capa.
-- **Destaque para os 30 livros mais comprados**: Uma seção na página exibe os livros mais comprados, simulando um sistema de exibição dinâmico usando JavaScript.
+- **Destaque para os 20 livros que a equipe de desenvolvimento indicaria**: Uma seção na página exibe os livros, simulando um sistema de exibição dinâmico usando JavaScript.
+- **Compra na Amazon**: Esse disponibiliza em Learn More um link, onde você podera comprar caso se interresse pelo livros 
 - **Design Responsivo**: O layout foi projetado para ser responsivo, adaptando-se a diferentes tamanhos de tela (desktop, tablet e celular).
 
 ## Tecnologias Utilizadas
