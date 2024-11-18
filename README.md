@@ -1,7 +1,7 @@
 # FSN5-GRUPO01-LIVRARIA
 LOJA DE LIVROS
 
-## Videos explicativos do Lider de equipe:
+## Videos explicativos do lider de equipe:
 https://drive.google.com/drive/folders/1bgS8HGlPL4_1be2Hh47Bi5dlc3sB7Jrj?usp=sharing
 
 # Livraria Online - Exibição de Livros
