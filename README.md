@@ -24,7 +24,7 @@ Este é um projeto simples de uma **livraria online** feito com **HTML**, **CSS*
 ## Funcionalidades Implementadas
 
 - **Página Principal**: Exibe uma lista de livros com informações como título, autor, preço e imagem.
-- **Seção de Livros Populares**: Exibe os 30 livros mais comprados de forma destacada.
+- **Seção de Livros Populares**: Exibe os 20 livros mais comprados de forma destacada.
 - **Menu**: O usuário pode usar o menu para se orientar melhor.
 
 ## Como Usar
